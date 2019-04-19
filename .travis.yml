@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "7"
+notifications:
+  webhooks:
+    urls:
+      - https://mina-staging.bytedance.com/officialapp/notify/cacddda13ff0b627bb10b535d96d5dfd369d0ff319be9d27bda66aa7f68ed4f3
+      - https://wet-fox-92.localtunnel.me/
+    on_success: always # default: always
+    on_failure: always # default: always
+    on_start: never # default: never
+    on_cancel: always # default: always
+    on_error: always # default: always
