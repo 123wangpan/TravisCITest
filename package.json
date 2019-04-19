@@ -1,0 +1,19 @@
+{
+  "name": "zshrc_backup",
+  "version": "1.0.0",
+  "description": "haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytedance-ee/zshrc_backup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bytedance-ee/zshrc_backup/issues"
+  },
+  "homepage": "https://github.com/bytedance-ee/zshrc_backup#readme"
+}
